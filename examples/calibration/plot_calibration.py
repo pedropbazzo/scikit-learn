@@ -119,3 +119,5 @@ plt.legend(loc="upper left")
 plt.title("Gaussian naive Bayes probabilities")
 
 plt.show()
+
+! new model IA
